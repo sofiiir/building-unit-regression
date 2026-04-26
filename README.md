@@ -11,9 +11,6 @@ This repository contains code that merges three different data sources: [Global 
 ├── py_scripts
 │   ├── unit_regression.py
 │   └── unit_regression_claude.py
-├── sofia_troubleshooting
-│   ├── troubleshooting_unit_regression_sdge.ipynb
-│   └── troubleshooting_unit_regression_ventura.ipynb
 └── smallscale_regression
     ├── building_function.ipynb
     ├── parcel_exploration.ipynb
@@ -30,8 +27,6 @@ This repository contains code that merges three different data sources: [Global 
 **images**: Contains a single image with labeled parquet parcels for `parquets_merge.ipynb` notebook.
 
 **py_scripts**: .py scripts that were used to run unit regression on a smaller scale.
-
-**sofia_troubleshooting**: Some troubleshooting code for honing unit regression pipeline (completed by Sofia Rodas – hence the name)
 
 **smallscale_regression**: Multiple notebooks running different iterations of unit regression on different areas of California.
 
